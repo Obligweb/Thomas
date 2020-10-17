@@ -16,6 +16,9 @@ img{
     margin-left: 200px;
 }
 h1{
-    margin-left: 600px;
+    padding-left: 620px;
 }
 
+@media only screen and (min-width: 768px) {
+
+}

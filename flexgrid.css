@@ -11,6 +11,8 @@
     grid-row: auto;
     border: 2px dashed black;
     border-radius: 10px;
+    display: flex;
+    width: 100%;
 
 }
 .main{
@@ -19,4 +21,5 @@
     border: 2px dashed black;
     border-radius: 10px;
     padding-right: 30px;
+    display: flex;
 }
